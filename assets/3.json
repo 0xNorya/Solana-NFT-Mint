@@ -1,0 +1,30 @@
+{
+    "name": "Odd Ballz 4",
+    "symbol": "OB",
+    "description": "Test Odd Ballz",
+    "seller_fee_basis_points": 500,
+    "image": "3.png",
+    "Attributes": [
+        {"Background": "Sunset", "value": 1},
+        {"color": "Gradient", "value": 1},
+        {"Body Type": "Purple Drip", "value": 1},
+        {"Eyes": "Angry", "value": 1},
+        {"Mouth": "Angry", "value": 1},
+        {"Top": "Cowboy", "value": 1}
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8TLMjjk13288ZkUuRH3LRpErhckQLoLyef7DJMw4sPAP",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "OddBallz", "family": "Eggs"}
+    }
+  }

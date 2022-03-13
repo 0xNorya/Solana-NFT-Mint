@@ -1,0 +1,30 @@
+{
+    "name": "Odd Ballz 2",
+    "symbol": "OB",
+    "description": "Test Odd Ballz",
+    "seller_fee_basis_points": 500,
+    "image": "1.png",
+    "Attributes": [
+        {"Background": "Rare", "value": 1},
+        {"color": "Gradient fan", "value": 1},
+        {"Body Type": "Bubble Coat", "value": 1},
+        {"Eyes": "Star Face", "value": 1},
+        {"Mouth": "Bubble Gum", "value": 1},
+        {"Top": "Brain", "value": 1}
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8TLMjjk13288ZkUuRH3LRpErhckQLoLyef7DJMw4sPAP",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "OddBallz", "family": "Eggs"}
+    }
+  }

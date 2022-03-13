@@ -1,0 +1,30 @@
+{
+    "name": "Odd Ballz 3",
+    "symbol": "OB",
+    "description": "Test Odd Ballz",
+    "seller_fee_basis_points": 500,
+    "image": "2.png",
+    "Attributes": [
+        {"Background": "turquise", "value": 1},
+        {"color": "Ski Mask", "value": 1},
+        {"Body Type": "Red Floral", "value": 1},
+        {"Eyes": "Normal", "value": 1},
+        {"Mouth": "Bubble Gum", "value": 1},
+        {"Top": "None", "value": 1}
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8TLMjjk13288ZkUuRH3LRpErhckQLoLyef7DJMw4sPAP",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "OddBallz", "family": "Eggs"}
+    }
+  }

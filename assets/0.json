@@ -1,0 +1,30 @@
+{
+    "name": "Odd Ballz 1",
+    "symbol": "OB",
+    "description": "Test Odd Ballz",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "Attributes": [
+        {"Background": "Pink", "value": 1},
+        {"color": "Brown", "value": 1},
+        {"Body Type": "Green Hoodie", "value": 1},
+        {"Eyes": "Rainbow Puke", "value": 1},
+        {"Mouth": "straight", "value": 1},
+        {"Top": "Horns", "value": 1}
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8TLMjjk13288ZkUuRH3LRpErhckQLoLyef7DJMw4sPAP",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "OddBallz", "family": "Eggs"}
+    }
+  }
